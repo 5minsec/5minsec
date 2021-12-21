@@ -9,7 +9,7 @@ const config = {
   title: '5minsec',
   tagline: 'Dinosaurs are cool',
   url: 'https://5minsec.github.io',
-  baseUrl: '/',
+  baseUrl: '/site',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
