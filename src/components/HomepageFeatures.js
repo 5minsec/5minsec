@@ -4,7 +4,7 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Tutoriais',
+    title: 'Docs',
     Svg: require('../../static/img/home/tutorial.svg').default,
     description: (
       <>
