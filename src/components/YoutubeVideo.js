@@ -1,11 +1,10 @@
 import React from 'react';
-import clsx from 'clsx';
 import styles from './YoutubeVideo.module.css';
 
 
 function Video() {
   return (
-    <div className={clsx('col')}>
+    <div className='col text-center'>
         <h2>Youtube</h2>
         <div className={styles.videoContainer}>
             <iframe

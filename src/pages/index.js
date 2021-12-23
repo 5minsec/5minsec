@@ -6,6 +6,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
 import YoutubeVideo from '../components/YoutubeVideo';
+import Podcast from '../components/Podcast';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -29,6 +30,7 @@ export default function Home() {
       <main>
         <YoutubeVideo />
         <HomepageFeatures />
+        <Podcast />
       </main>
     </Layout>
   );

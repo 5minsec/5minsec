@@ -44,7 +44,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       metadata: [
-        {name: 'keywords', content: 'security,appsec,cyber,pentest,blog,tutorial'}
+        {name: 'keywords', content: 'security,appsec,cyber,pentest,blog,tutorial,podcast'}
       ],
       colorMode: {
         defaultMode: 'dark',
@@ -69,8 +69,13 @@ const config = {
             position: 'right',
           },
           {
-            href: 'hhttps://www.instagram.com/5minsec',
+            href: 'https://www.instagram.com/5minsec',
             label: 'Instagram',
+            position: 'right',
+          },
+          {
+            href: 'https://open.spotify.com/show/1enf1pUTB3xaZxNFZ3LDgv?si=e9289729c9d642bc',
+            label: 'Podcast',
             position: 'right',
           },
         ],
