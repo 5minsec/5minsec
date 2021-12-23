@@ -4,32 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Tutoriais',
+    Svg: require('../../static/img/home/tutorial.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        <a href='/site/docs/intro'>AQUI</a> você encontra uma série de docs sobre ferramentas, práticas, links úteis, etc.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Blog',
+    Svg: require('../../static/img/home/blog.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        <a href='/site/blog'>AQUI</a> você encontra os artigos que escrevi. É um diário com tudo que eu venho aprendendo.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: 'Github',
+    Svg: require('../../static/img/home/github.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        <a href='https://github.com/5minsec' target='_blank'>AQUI</a> você encontra todos os projetinhos que tenho desenvolvido para me ajudar com o cotidiano de sec.
       </>
     ),
   },

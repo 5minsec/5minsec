@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '5minsec',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Seus 5 minutinhos sobre cyber security, appsec, pentest, essas coisa ai...',
   url: 'https://5minsec.github.io',
   baseUrl: '/site/',
   onBrokenLinks: 'throw',
@@ -43,6 +43,9 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: 'dark',
+      },
       navbar: {
         title: '5minsec',
         logo: {
