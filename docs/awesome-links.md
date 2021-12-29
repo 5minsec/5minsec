@@ -57,6 +57,7 @@ Our main goal is to share tips from some well-known bughunters.
 * [highon.coffee](https://highon.coffee/): Penetration Testing && Security Research Blog
 * [hackingarticles.in](https://www.hackingarticles.in/): Raj Chandel's Blog
 * [labs.detectify.com](https://labs.detectify.com/): A security research blog
+* [daily.dev](https://app.daily.dev/popular): All developers news in one place
 
 
 ## Articles
@@ -72,6 +73,7 @@ Our main goal is to share tips from some well-known bughunters.
 ## Cheat Sheets
 
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
+* [OverApi](https://overapi.com/)
 
 
 ## Docs and Books
