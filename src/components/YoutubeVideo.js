@@ -8,7 +8,7 @@ function Video() {
         <h2>Youtube</h2>
         <div className={styles.videoContainer}>
             <iframe
-                src="https://www.youtube.com/embed/8LgxwFLrmjs"
+                src="https://www.youtube.com/embed/zX0g2btna5E"
                 className={styles.videoFrame}
                 title="YouTube video player"
                 frameborder="0"
@@ -19,6 +19,7 @@ function Video() {
     </div>
   );
 }
+
 
 export default function YoutubeVideo() {
   return (
