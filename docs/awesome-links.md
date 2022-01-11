@@ -25,7 +25,9 @@ ready to go.
 * [CyberChef](https://gchq.github.io/CyberChef/): The Cyber Swiss Army Knife.
 * [patchstack.com](https://patchstack.com/database/): Vulnerability Database.
 * [beeceptor.com](https://beeceptor.com/): Rest API mocking and intercepting in seconds.
-
+* [spaceship-prompt.sh](https://spaceship-prompt.sh/): Minimalistic, powerful and extremely customizable Zsh prompt.
+* [tryeraser.com](https://www.tryeraser.com/): A whiteboard that lets you focus on ideas.
+* [osv.dev](https://osv.dev/): Database for open source vulnerabilities.
 
 ## Learning
 
